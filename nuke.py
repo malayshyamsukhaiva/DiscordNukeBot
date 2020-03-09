@@ -69,4 +69,4 @@ async def logout(ctx):
     else:
         await ctx.send('you cant do that')
 
-client.run(TOKEN) #replace TOKEN with your bot token
+client.run('TOKEN') #replace TOKEN with your bot token
