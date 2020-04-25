@@ -18,7 +18,7 @@ My own [server](https://discord.gg/ka35JqY) had been nuked before, so please do 
   * .channel delete (will delete all channels)
 * .logout (will log the bot out)
 
-## Nuke 2.0
+## [Nuke 2.0](https://youtu.be/6JK-d-plvXU)
 * .massDM (will attempt to DM all members from a guild)
 * .nickAll (will attempt to nickname all members from a guild)
 * .channelAll (will attempt to rename all channels from a guild)
